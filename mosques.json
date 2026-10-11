@@ -1,9 +1,9 @@
 [
   {
     "id": "test-001",
-    "name": "Test Masjid One",
-    "lat": 17.4499,
-    "lng": 78.4241,
+    "name": "ismail masjid",
+    "lat": 17.450247528016483,
+    "lng": 78.4263899657776,
     "address": "Test street, Hyderabad",
     "updated": "2026-10-11",
     "jamaat": {
